@@ -1,0 +1,6 @@
+D,1,return booked,2021-12-12T18:00
+E,0,project meeting,Mon 2-4pm
+T,0,this and that
+T,1,borrow surfboard
+E,0,project meeting,Mon 2-4pm
+D,0,return surfboard,2021-12-01T18:00
